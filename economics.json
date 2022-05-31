@@ -1,0 +1,254 @@
+{
+    "Sheet1": [
+        {
+            "Year": "1971",
+            "GDP Growth Percentage": "3.504717351",
+            "UK Unemployment Rate": "4.1"
+        },
+        {
+            "Year": "1972",
+            "GDP Growth Percentage": "4.321667667",
+            "UK Unemployment Rate": "4.3"
+        },
+        {
+            "Year": "1973",
+            "GDP Growth Percentage": "6.523848445",
+            "UK Unemployment Rate": "3.7"
+        },
+        {
+            "Year": "1974",
+            "GDP Growth Percentage": "-2.484404003",
+            "UK Unemployment Rate": "3.7"
+        },
+        {
+            "Year": "1975",
+            "GDP Growth Percentage": "-1.47364947",
+            "UK Unemployment Rate": "4.5"
+        },
+        {
+            "Year": "1976",
+            "GDP Growth Percentage": "2.910266178",
+            "UK Unemployment Rate": "5.4"
+        },
+        {
+            "Year": "1977",
+            "GDP Growth Percentage": "2.45775046",
+            "UK Unemployment Rate": "5.6"
+        },
+        {
+            "Year": "1978",
+            "GDP Growth Percentage": "4.204260549",
+            "UK Unemployment Rate": "5.5"
+        },
+        {
+            "Year": "1979",
+            "GDP Growth Percentage": "3.74901651",
+            "UK Unemployment Rate": "5.4"
+        },
+        {
+            "Year": "1980",
+            "GDP Growth Percentage": "-2.031367788",
+            "UK Unemployment Rate": "6.8"
+        },
+        {
+            "Year": "1981",
+            "GDP Growth Percentage": "-0.787743816",
+            "UK Unemployment Rate": "9.6"
+        },
+        {
+            "Year": "1982",
+            "GDP Growth Percentage": "1.994891312",
+            "UK Unemployment Rate": "10.7"
+        },
+        {
+            "Year": "1983",
+            "GDP Growth Percentage": "4.221856277",
+            "UK Unemployment Rate": "11.5"
+        },
+        {
+            "Year": "1984",
+            "GDP Growth Percentage": "2.269105178",
+            "UK Unemployment Rate": "11.8"
+        },
+        {
+            "Year": "1985",
+            "GDP Growth Percentage": "4.147414998",
+            "UK Unemployment Rate": "11.4"
+        },
+        {
+            "Year": "1986",
+            "GDP Growth Percentage": "3.150340543",
+            "UK Unemployment Rate": "11.3"
+        },
+        {
+            "Year": "1987",
+            "GDP Growth Percentage": "5.392738307",
+            "UK Unemployment Rate": "10.4"
+        },
+        {
+            "Year": "1988",
+            "GDP Growth Percentage": "5.732413722",
+            "UK Unemployment Rate": "8.6"
+        },
+        {
+            "Year": "1989",
+            "GDP Growth Percentage": "2.577602692",
+            "UK Unemployment Rate": "7.2"
+        },
+        {
+            "Year": "1990",
+            "GDP Growth Percentage": "0.73375552",
+            "UK Unemployment Rate": "7.1"
+        },
+        {
+            "Year": "1991",
+            "GDP Growth Percentage": "-1.103121662",
+            "UK Unemployment Rate": "8.9"
+        },
+        {
+            "Year": "1992",
+            "GDP Growth Percentage": "0.401082076",
+            "UK Unemployment Rate": "9.9"
+        },
+        {
+            "Year": "1993",
+            "GDP Growth Percentage": "2.489830985",
+            "UK Unemployment Rate": "10.4"
+        },
+        {
+            "Year": "1994",
+            "GDP Growth Percentage": "3.846009168",
+            "UK Unemployment Rate": "9.5"
+        },
+        {
+            "Year": "1995",
+            "GDP Growth Percentage": "2.531670005",
+            "UK Unemployment Rate": "8.6"
+        },
+        {
+            "Year": "1996",
+            "GDP Growth Percentage": "2.428542895",
+            "UK Unemployment Rate": "8.1"
+        },
+        {
+            "Year": "1997",
+            "GDP Growth Percentage": "4.90902574",
+            "UK Unemployment Rate": "6.9"
+        },
+        {
+            "Year": "1998",
+            "GDP Growth Percentage": "3.153973375",
+            "UK Unemployment Rate": "6.2"
+        },
+        {
+            "Year": "1999",
+            "GDP Growth Percentage": "2.990111445",
+            "UK Unemployment Rate": "6"
+        },
+        {
+            "Year": "2000",
+            "GDP Growth Percentage": "3.672369105",
+            "UK Unemployment Rate": "5.4"
+        },
+        {
+            "Year": "2001",
+            "GDP Growth Percentage": "2.072656279",
+            "UK Unemployment Rate": "5.1"
+        },
+        {
+            "Year": "2002",
+            "GDP Growth Percentage": "2.123222773",
+            "UK Unemployment Rate": "5.2"
+        },
+        {
+            "Year": "2003",
+            "GDP Growth Percentage": "3.029889927",
+            "UK Unemployment Rate": "5"
+        },
+        {
+            "Year": "2004",
+            "GDP Growth Percentage": "2.355629762",
+            "UK Unemployment Rate": "4.8"
+        },
+        {
+            "Year": "2005",
+            "GDP Growth Percentage": "2.59328001",
+            "UK Unemployment Rate": "4.8"
+        },
+        {
+            "Year": "2006",
+            "GDP Growth Percentage": "2.584104677",
+            "UK Unemployment Rate": "5.4"
+        },
+        {
+            "Year": "2007",
+            "GDP Growth Percentage": "2.269486875",
+            "UK Unemployment Rate": "5.3"
+        },
+        {
+            "Year": "2008",
+            "GDP Growth Percentage": "-0.239638085",
+            "UK Unemployment Rate": "5.7"
+        },
+        {
+            "Year": "2009",
+            "GDP Growth Percentage": "-4.247356266",
+            "UK Unemployment Rate": "7.6"
+        },
+        {
+            "Year": "2010",
+            "GDP Growth Percentage": "2.131438198",
+            "UK Unemployment Rate": "7.9"
+        },
+        {
+            "Year": "2011",
+            "GDP Growth Percentage": "1.457563391",
+            "UK Unemployment Rate": "8.1"
+        },
+        {
+            "Year": "2012",
+            "GDP Growth Percentage": "1.469887521",
+            "UK Unemployment Rate": "8"
+        },
+        {
+            "Year": "2013",
+            "GDP Growth Percentage": "1.890018342",
+            "UK Unemployment Rate": "7.6"
+        },
+        {
+            "Year": "2014",
+            "GDP Growth Percentage": "2.991164814",
+            "UK Unemployment Rate": "6.2"
+        },
+        {
+            "Year": "2015",
+            "GDP Growth Percentage": "2.622596679",
+            "UK Unemployment Rate": "5.4"
+        },
+        {
+            "Year": "2016",
+            "GDP Growth Percentage": "2.263463538",
+            "UK Unemployment Rate": "4.9"
+        },
+        {
+            "Year": "2017",
+            "GDP Growth Percentage": "2.134453093",
+            "UK Unemployment Rate": "4.4"
+        },
+        {
+            "Year": "2018",
+            "GDP Growth Percentage": "1.650925496",
+            "UK Unemployment Rate": "4.1"
+        },
+        {
+            "Year": "2019",
+            "GDP Growth Percentage": "1.671944197",
+            "UK Unemployment Rate": "3.8"
+        },
+        {
+            "Year": "2020",
+            "GDP Growth Percentage": "-9.396160006",
+            "UK Unemployment Rate": "4.5"
+        }
+    ]
+}
